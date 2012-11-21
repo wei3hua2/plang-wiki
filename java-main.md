@@ -1,6 +1,0 @@
-
-Features
-
-History
-
-Syntax
