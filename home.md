@@ -1,4 +1,4 @@
-[[java|Java]]
+[[Java|java]]
 
 Javascript
 
